@@ -6,4 +6,5 @@ Deployed Link: https://isaacstyle.retool.com/embedded/public/9e05fbbe-cdf6-46bc-
 
 History
 3/13/2023 - Complete
+
 3/22/2023 - Added CRUD functionality on Categories
